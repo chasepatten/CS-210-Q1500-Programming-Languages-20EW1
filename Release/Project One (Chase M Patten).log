@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\chase\Desktop\Project One (Chase M Patten)\Project One (Chase M Patten)\main.cpp(39,21): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\chase\Desktop\Project One (Chase M Patten)\Project One (Chase M Patten)\main.cpp(49,19): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\chase\Desktop\Project One (Chase M Patten)\Project One (Chase M Patten)\main.cpp(61,19): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\chase\Desktop\Project One (Chase M Patten)\Project One (Chase M Patten)\main.cpp(73,19): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  Generating code
+  0 of 17 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project One (Chase M Patten).vcxproj -> C:\Users\chase\Desktop\Project One (Chase M Patten)\Release\Project One (Chase M Patten).exe

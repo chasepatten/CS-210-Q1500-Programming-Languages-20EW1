@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\chase\Desktop\Project One (Chase M Patten)\Project One (Chase M Patten)\main.cpp(20,24): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\chase\Desktop\Project One (Chase M Patten)\Project One (Chase M Patten)\main.cpp(17,6): warning C4101: 'seconds': unreferenced local variable
+C:\Users\chase\Desktop\Project One (Chase M Patten)\Project One (Chase M Patten)\main.cpp(16,6): warning C4101: 'minutes': unreferenced local variable
+C:\Users\chase\Desktop\Project One (Chase M Patten)\Project One (Chase M Patten)\main.cpp(15,6): warning C4101: 'hours': unreferenced local variable
+  Project One (Chase M Patten).vcxproj -> C:\Users\chase\Desktop\Project One (Chase M Patten)\Debug\Project One (Chase M Patten).exe
